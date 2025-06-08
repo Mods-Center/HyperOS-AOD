@@ -11,6 +11,7 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-AOD/rel
 - Unlocked magazine (depth) section for all devices
 - Smoothed the Aod screen transition from lock screen
 - Fixed jitters in transition between lock screen and Aod
+- Unlocked full screen Aod option
 - Increased lock screen templates limit 
 - Aod working for IPS display users 
 - Unlocked always option and smart option in Aod visibility
