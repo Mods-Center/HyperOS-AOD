@@ -9,6 +9,7 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-AOD/rel
 
 ### Changelog:
 - Unlocked magazine (depth) section for all devices
+- Unlocked extra style in Eastern aesthetics section
 - Smoothed the Aod screen transition from lock screen
 - Fixed jitters in transition between lock screen and Aod
 - Unlocked full screen Aod option
