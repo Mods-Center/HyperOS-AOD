@@ -1,3 +1,15 @@
+## v4.0 (41)
+
+### Changelog
+- Added lockscreen widgets feature
+- Added Aod support for unsupported devices
+- Improved lockscreen to Aod clock transition
+- Attempted to fix full screen Aod feature for all devices
+- Increased lockscreen clock templates limit
+- Added media player view in Aod screen
+- Added charging informations in Aod screen 
+- Many more....
+
 ## v4.0 (40)
 
 ### Changelog
