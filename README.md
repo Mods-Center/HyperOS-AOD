@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/ea4e5d71-c95b-44d2-8b96-4265d4037605" alt="HyperOS AOD Mod" width="100%"/>
+<img width="2171" height="1220" alt="1001172629" src="https://github.com/user-attachments/assets/8b0cb7a3-9b20-4f38-a43a-fe5743657c5f" />
+
 
 # HyperOS AOD Mod
 
@@ -13,18 +14,8 @@
 
 </div>
 
-## Features
-- Magazine (depth) section unlocked on every device
-- Extra animal style section
-- AI dynamic wallpapers on every device
-- 3 extra clocks in the big clocks section
-- Lock screen → AOD transition on low-end devices, with jitter fixed
-- IPS display support
-- "Always" and "Smart" AOD visibility options
-- Higher limit on lock screen templates
-
 ## Requirements
-- HyperOS 3
+- HyperOS 4
 - Magisk, KernelSU or APatch
 
 ## Installation
@@ -35,13 +26,17 @@
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/633ebf8d-efde-4019-badc-3eb2b4587a18" width="23%" alt="AOD & Lock Screen Editor"/>
-  <img src="https://github.com/user-attachments/assets/ef276d91-2c44-4488-8e38-f8d63e0f004e" width="23%" alt="AOD & Lock Screen Editor"/>
-  <img src="https://github.com/user-attachments/assets/7058b026-78e2-499a-bae6-4f7a46aba382" width="23%" alt="AOD & Lock Screen Editor"/>
-  <img src="https://github.com/user-attachments/assets/90aefe69-a531-49db-a63e-042154a788ae" width="23%" alt="AOD & Lock Screen Editor"/>
-  <br/>
-  <img src="https://github.com/user-attachments/assets/72ff8441-369e-4b7c-94c8-791f9f2e1d87" width="23%" alt="AOD & Lock Screen Editor"/>
-  <img src="https://github.com/user-attachments/assets/424306f7-b74c-499b-a1d5-ac48a0e8c6e9" width="23%" alt="AOD & Lock Screen Editor"/>
+<img width="1184" height="2547" alt="1001172626" src="https://github.com/user-attachments/assets/91d6791f-448a-4cb1-8935-884a03f6197b" />
+<img width="1184" height="2547" alt="1001172625" src="https://github.com/user-attachments/assets/ca1b36b0-0158-472e-8f49-48b9c3047ccc" />
+<img width="1184" height="2547" alt="1001172627" src="https://github.com/user-attachments/assets/dec61fc3-1cde-4120-9b9f-2f50bc963bbd" />
+<img width="1184" height="2547" alt="1001172623" src="https://github.com/user-attachments/assets/fff12245-172e-4f88-80f4-d7ddfa4401e3" />
+<img width="1184" height="2547" alt="1001172624" src="https://github.com/user-attachments/assets/fcd03250-3d57-4b2e-bc5d-b5bc1c495754" />
+<img width="1184" height="2547" alt="1001172621" src="https://github.com/user-attachments/assets/aa2157aa-cb6a-4761-a635-4c50b990ec62" />
+<img width="1184" height="2547" alt="1001172622" src="https://github.com/user-attachments/assets/c8cc14ad-5130-41cc-b135-33ca0e3d8e3e" />
+<img width="1184" height="2547" alt="1001172620" src="https://github.com/user-attachments/assets/33e4e414-faf8-4a73-b92a-16e4926d49e0" />
+<img width="1184" height="2547" alt="1001172619" src="https://github.com/user-attachments/assets/4b4d4ba4-d9c1-44cb-aabb-21e0396d2ebc" />
+<img width="1184" height="2547" alt="1001172618" src="https://github.com/user-attachments/assets/71092f23-f405-4fd1-8040-f59ac06705b6" />
+
 </p>
 
 ---
